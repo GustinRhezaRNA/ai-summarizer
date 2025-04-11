@@ -1,3 +1,6 @@
+Summarize Web Using RapidAPI
+dirancang untuk meringkas artikel secara otomatis menggunakan teknologi AI. Pengguna cukup memasukkan URL artikel, dan sistem akan menghasilkan ringkasan yang lebih singkat dan mudah dipahami. Aplikasi ini dibangun dengan React, serta memanfaatkan Redux Toolkit untuk mengelola state secara efisien. Dengan integrasi RTK Query, proses fetch data dari API menjadi lebih optimal. Selain itu, hasil ringkasan yang telah dibuat dapat disimpan di local storage, sehingga pengguna bisa mengakses riwayat ringkasan mereka dengan mudah.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
